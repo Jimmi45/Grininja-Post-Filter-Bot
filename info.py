@@ -5,4 +5,3 @@ SESSION      = "BQFYY5cAX2qipo2pDPhbU2sQXeA7E4Gf4UsFm8f8KK9wsNXFCyb4CXGubDpgaNLV
 DATABASE_URI = "mongodb+srv://jimmi45:jimmi45pass@cluster0.mrzul47.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1002117873528
 ADMIN        = 6793909122
-NODE_VERSION = 20.10.0
